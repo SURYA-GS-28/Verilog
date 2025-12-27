@@ -16,7 +16,6 @@ end
 //-----TEST BENCH-----
 initial begin
 //Variety of test cases.Remove comments to test one by one.
-
 /*//1st case
 #12 prtx=1;#10 prtx=0;#10 prtx=1;#10 prtx=0;#10 prtx=1;#10 prtx=0;
 //---End of 1st case---*/
@@ -32,7 +31,6 @@ initial begin
 /*5th case
 #12 prtx=0;#10 prtx=0; #10 prtx=1;#10 prtx=0;#10 prtx=1;#10 prtx=0;#10 prtx=1;#10 prtx=0;#10 prtx=1;#10 prtx=0;
 #10 prtx=0;#10 prtx=1;#10 prtx=0;#10 prtx=1;#10 prtx=0;#10 prtx=1;#10 prtx=0;
->>>>>>> 6470f23568a498135a895714c5244b89f265f72f
 ---End of 5th case---*/
 end
 //-----MONITOR-----
